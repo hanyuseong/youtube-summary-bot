@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+원격 수정 <<<<<<< HEAD
 # youtube-summary-bot
 A Next.js app for summarizing YouTube videos.
 =======
