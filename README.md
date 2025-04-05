@@ -1,4 +1,4 @@
-원격 수정 <<<<<<< HEAD
+원격 수정 로컬수정 추가<<<<<<< HEAD
 # youtube-summary-bot
 A Next.js app for summarizing YouTube videos.
 =======
